@@ -23,7 +23,7 @@ La configuración ha sido trasladada a todos los documentos html del proyecto.
 Para ello se han usado 2 archivos css, uno denominado *__d.css__*, que se usará para la página web normal, en navegadores de ordenadores con unas resoluciones normales, y otro archivo denominado *__m.css__*, que se usará cuando el navegador tenga una resolución para dispositivos móviles.
 
 ### * Versión JavaScript:
-En esta ocasión el proyecto se ha puesto en funcionamiento gracias al lenguaje JavaScript del que se han extraido  las funciones y herramientas para poder desarrollar una gran lista de casuísticas del juego, dando movimiento a la nave, empleando cálculos físicos.
+En esta ocasión el proyecto se ha puesto en funcionamiento gracias al lenguaje JavaScript del que se han extraído  las funciones y herramientas para poder desarrollar una gran lista de casuísticas del juego, dando movimiento a la nave, empleando cálculos físicos.
 
 ### * Versión identada:
 Esta versión se corresponde con la master, por lo que no se ha creado ninguna rama aparte. Para realizar esta versión del html, se han revisado todos los elementos de la página web y se han colocado de la manera correcta para su mejor visualización. 
