@@ -7,8 +7,8 @@ Desarrollo del primer proyecto denominado [Juego-proyecto-lunar](https://github.
 1. Se ha revisado el enunciado de la práctica y los temas tratados en el foro de la asignatura, que han servido de gran ayuda para la elaboración del proyecto, entre los comentarios y ayuda de compañeros y del profesor.
 2. Se han buscado algunas imágenes para modificar otras ya creadas.
 3. Crear y editar las imágenes.
-4. Revisar la página principal del juego y los archivs css a la vez donde se dió formato a todos los documentos html del proyecto.
-5. Realizar el documento JavaScript para su implatanción y adaptación en la página web.
+4. Revisar la página principal del juego y los archivos css a la vez donde se dio formato a todos los documentos html del proyecto.
+5. Realizar el documento JavaScript para su implantación y adaptación en la página web.
 6. Revisar el correcto funcionamiento de las funciones indicadas en JavaScript.
 7. Probar la web en diferentes resoluciones y diferentes navegadores, para probar la visualización en distintos dispositivos.
 8. Revisar que todas las páginas html y los archivos de diseño css están correctamente creados y no contienen errores, mediante las herramientas de validación de W3C.
@@ -17,7 +17,7 @@ A continuación se pasan a indicar características especiales a reseñar de la 
 ### * Imágenes adaptadas:
 Las imágenes de la web han sido optimizadas mediante la propia herramienta de dibujo GIMP y el programa PNGGauntlet, aunque la disminución de tamaño provocaba a su vez la pérdida de calidad, por lo que se han dejado optimizadas de forma que se perdiera calidad en la web.
 
-### * Versión dispotivos móviles:
+### * Versión dispositivos móviles:
 Siguiendo la base proporcionada por el profesor del módulo, se ha conseguido adaptar al proyecto la configuración de dispositivos móviles, de esa manera se observa el correcto funcionamiento y la posibilidad de ver el menú del juego.
 La configuración ha sido trasladada a todos los documentos html del proyecto.
 Para ello se han usado 2 archivos css, uno denominado *__d.css__*, que se usará para la página web normal, en navegadores de ordenadores con unas resoluciones normales, y otro archivo denominado *__m.css__*, que se usará cuando el navegador tenga una resolución para dispositivos móviles.
