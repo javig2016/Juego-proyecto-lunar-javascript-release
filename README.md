@@ -7,7 +7,7 @@ Desarrollo del primer proyecto denominado [Juego-proyecto-lunar](https://github.
 1. Se ha revisado el enunciado de la práctica y los temas tratados en el foro de la asignatura, que han servido de gran ayuda para la elaboración del proyecto, entre los comentarios y ayuda de compañeros y del profesor.
 2. Se han buscado algunas imágenes para modificar otras ya creadas.
 3. Crear y editar las imágenes.
-4. Revisar la página principal del juego y los archivos css a la vez donde se dio formato a todos los documentos html del proyecto.
+4. Revisión de la página principal del juego y los archivos css a la vez, donde se introdujo el formato a todos los documentos html del proyecto.
 5. Realizar el documento JavaScript para su implantación y adaptación en la página web.
 6. Revisar el correcto funcionamiento de las funciones indicadas en JavaScript.
 7. Probar la web en diferentes resoluciones y diferentes navegadores, para probar la visualización en distintos dispositivos.
