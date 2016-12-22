@@ -20,7 +20,7 @@ Las imágenes de la web han sido optimizadas mediante la propia herramienta de d
 ### * Versión dispotivos móviles:
 Siguiendo la base proporcionada por el profesor del módulo, se ha conseguido adaptar al proyecto la configuración de dispositivos móviles, de esa manera se observa el correcto funcionamiento y la posibilidad de ver el menú del juego.
 La configuración ha sido trasladada a todos los documentos html del proyecto.
-Para ello se han usado 2 archivos css, uno denominado *_d.css_*, que se usará para la página web normal, en navegadores de ordenadores con unas resoluciones normales, y otro archivo denominado *_m.css_*, que se usará cuando el navegador tenga una resolución para dispositivos móviles.
+Para ello se han usado 2 archivos css, uno denominado *__d.css__*, que se usará para la página web normal, en navegadores de ordenadores con unas resoluciones normales, y otro archivo denominado *__m.css__*, que se usará cuando el navegador tenga una resolución para dispositivos móviles.
 
 ### * Versión JavaScript:
 En esta ocasión el proyecto se ha puesto en funcionamiento gracias al lenguaje JavaScript del que se han extraido  las funciones y herramientas para poder desarrollar una gran lista de casuísticas del juego, dando movimiento a la nave, empleando cálculos físicos.
