@@ -26,7 +26,7 @@ Para ello se han usado 2 archivos css, uno denominado *__d.css__*, que se usará
 En esta ocasión el proyecto se ha puesto en funcionamiento gracias al lenguaje JavaScript del que se han extraído  las funciones y herramientas para poder desarrollar una gran lista de casuísticas del juego, dando movimiento a la nave, empleando cálculos físicos.
 
 ### * Versión identada:
-Esta versión se corresponde con la master, por lo que no se ha creado ninguna rama a parte. Para realizar esta versión del html, se han revisado todos los elementos de la página web y se han colocado de la manera correcta para su mejor visualización. 
+Esta versión se corresponde con la master, por lo que no se ha creado ninguna rama aparte. Para realizar esta versión del html, se han revisado todos los elementos de la página web y se han colocado de la manera correcta para su mejor visualización. 
 
 ### * Versión reducida (_minify_):
 
