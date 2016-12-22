@@ -1,0 +1,86 @@
+﻿body,html{height:100%;padding:0px;margin:0px;}
+.a0{background: url("../img/espacio.jpg");}
+.b0{background: url("../img/espacio.jpg")}
+.c0{background: url("../img/espacio.jpg");display:block !important;}
+.a0,.b0,.c0{display:inline-block;width:33.33%;height:100%;float:left;}
+.d0{background: url("../img/luna.png");height:10%;width:100%;position:fixed;bottom:0px;}
+#nave{text-align:center;position:fixed;top:10%;width:100%;height:20%}
+#nave img{height:100%;}
+#cpanel{
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	color: red;
+}
+
+#hidem,#showm{display:none}
+
+#menu{
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	color: forestgreen;
+}
+
+#titulo1 {
+  color: forestgreen;
+  text-align: center;
+}
+
+h1 {
+	color: forestgreen;
+  text-align: center;
+}
+
+p {
+	color: forestgreen;
+	text-align: justify;
+	font-size: 30px;
+}
+
+a:link{
+	text-decoration:none;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	color: forestgreen;
+}
+
+#textcp{
+	font-size:25px;
+	text-align: left;
+}
+/*configuración menu juego horizontal pantalla inicial*/
+.paramenu {
+  width: 80%;
+  margin: auto;
+  overflow:hidden;
+}
+
+header {
+  width: 100%;
+  z-index: 10;
+}
+
+nav {
+  float: left;
+}
+
+nav ul {
+  list-style: none;
+  overflow: hidden;
+}
+
+nav ul li {
+  float: left;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+nav ul li a {
+  display: block; 
+  padding: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+nav ul li:hover {
+  background: green;
+}
