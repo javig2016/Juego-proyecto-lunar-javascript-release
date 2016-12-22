@@ -17,7 +17,7 @@ A continuación se pasan a indicar características especiales a reseñar de la 
 ### * Imágenes adaptadas:
 Las imágenes de la web han sido optimizadas mediante la propia herramienta de dibujo GIMP y el programa PNGGauntlet, aunque la disminución de tamaño provocaba a su vez la pérdida de calidad, por lo que se han dejado optimizadas de forma que se perdiera calidad en la web.
 
-### * Versión dispotivos móviles:
+### * Versión dispositivos móviles:
 Siguiendo la base proporcionada por el profesor del módulo, se ha conseguido adaptar al proyecto la configuración de dispositivos móviles, de esa manera se observa el correcto funcionamiento y la posibilidad de ver el menú del juego.
 La configuración ha sido trasladada a todos los documentos html del proyecto.
 Para ello se han usado 2 archivos css, uno denominado *__d.css__*, que se usará para la página web normal, en navegadores de ordenadores con unas resoluciones normales, y otro archivo denominado *__m.css__*, que se usará cuando el navegador tenga una resolución para dispositivos móviles.
