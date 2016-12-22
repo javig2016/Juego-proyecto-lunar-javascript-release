@@ -8,7 +8,7 @@ Desarrollo del primer proyecto denominado [Juego-proyecto-lunar](https://github.
 2. Se han buscado algunas imágenes para modificar otras ya creadas.
 3. Crear y editar las imágenes.
 4. Revisión de la página principal del juego y los archivos css a la vez, donde se introdujo el formato a todos los documentos html del proyecto.
-5. Realizar el documento JavaScript para su implatanción y adaptación en la página web.
+5. Realizar el documento JavaScript para su implantanción y adaptación en la página web.
 6. Revisar el correcto funcionamiento de las funciones indicadas en JavaScript.
 7. Probar la web en diferentes resoluciones y diferentes navegadores, para probar la visualización en distintos dispositivos.
 8. Revisar que todas las páginas html y los archivos de diseño css están correctamente creados y no contienen errores, mediante las herramientas de validación de W3C.
